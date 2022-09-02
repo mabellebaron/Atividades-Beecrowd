@@ -1,2 +1,2 @@
-# Atividades-Beecrowd
-Atividades de Python no site Beecrowd
+# Atividades-Impacta
+Atividades usando a linguagem de Python
